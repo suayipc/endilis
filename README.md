@@ -1,4 +1,4 @@
 # endilis
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/suayipc/suayipc)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/suayipc/endilis)
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/suayipc/suayipc
+ :target: https://mybinder.org/v2/gh/suayipc/endilis
